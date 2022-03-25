@@ -1,5 +1,5 @@
 - 👋 Hey, I’m @taisgraminho
-- 💞️ I’m currently studying computer science| II semester
+- 💞️ I’m currently studying computer science| III semester
 - 📫 taisgraminho@gmail.com
 
 <!---
