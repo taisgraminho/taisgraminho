@@ -1,4 +1,4 @@
-- 👋 Hey, I’m @taisgraminho
+- 👩‍💻 Hey, @taisgraminho here! 18 years old.
 - 💞️ I’m currently studying computer science| III semester
 - 📫 taisgraminho@gmail.com
 
