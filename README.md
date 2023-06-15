@@ -1,5 +1,6 @@
-- 👩‍💻 Hey, @taisgraminho here! 18 years old.
-- 💞️ I’m currently studying computer science| III semester
+- 👩‍💻 Hey, @taisgraminho here! 20 years old.
+- 💞️ I’m currently studying computer science| 5º Semester
+- 💞️ Back-end | SpringBoot | AWS
 - 📫 taisgraminho@gmail.com
 
 <!---
